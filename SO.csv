@@ -1,0 +1,47 @@
+﻿Bug,Framework,Source of Bug,Bug Type,Root Cause,Symptom
+https://stackoverflow.com/questions/68412517/build-custom-federated-averaging-process-with-valueerror-layer-sequential-expec,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/65434193/multi-gpu-tff-simulation-errors-detected-dataset-reduce-op-in-multi-gpu-tff-sim,SO,FL application,Model building,Wrong GPU Usage,Crash
+https://stackoverflow.com/questions/66206118/typeerror-expected-tensorflow-python-framework-tensor-spec-tensorspec-found-nu,SO,FL application,Data loading & processing,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66206118/typeerror-expected-tensorflow-python-framework-tensor-spec-tensorspec-found-nu,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66557738/exploding-memory-consumption-when-training-fl-model-with-varying-number-of-parti,SO,FL application,Model building,Improper Memory Usage,Crash
+https://stackoverflow.com/questions/62754913/attempting-to-capture-an-eagertensor-without-building-a-function-error-while,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/65471612/tensorflow-federated-has-no-attribute-namedtupletype,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/67053731/error-using-update-struct-function-in-tensorflow-federated,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/57381329/expected-a-callable-found-non-callable-tensorflow-federated-python-learning-mod,SO,FL application,Model building,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/60181180/tensorflow-federated-typeerror-when-using-customized-dataset-and-model,SO,FL application,Framework evolution,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/60181180/tensorflow-federated-typeerror-when-using-customized-dataset-and-model,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/60457040/get-typeerror-caught-exception-for-using-accuracy-in-tensorflow-federated,SO,FL application,Model building,Improper Hyperparameter,Crash
+https://stackoverflow.com/questions/60903579/error-when-running-tensorflow-federated-on-server,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/62332459/tff-custom-input-spec-with-custom-data-set-typeerror-object-of-type-tensors,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62398225/when-using-building-a-federated-averaging-process-typeerror-expected-a-callab,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62786889/error-while-encoding-with-hub-keraslayer-while-using-tff,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/62906596/attributeerror-tensor-op-is-meaningless-when-eager-execution-is-enabled-when-us,SO,FL application,Model building,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/65481370/size-mismatch-in-tensorflow-federated-eager-executor,SO,FL application,Client computation,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/67138338/unable-to-interpret-an-argument-of-type-tensorflow-python-data-ops-dataset-ops-p,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/67147951/tensorflow-federated-python-simulation-has-no-attribute-fromtensorslicesclien,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/68691256/attributeerror-module-tensorflow-privacy-has-no-attribute-dpquery,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/68891143/tensorflow-federated-tff-typeerror-in-tff-templates-iterativeprocess-next-wh,SO,FL application,FL Configuration,Improper Interaction Initialization/Establiah,Crash
+https://stackoverflow.com/questions/69614134/tensorflow-federated-object-is-not-subscriptable,SO,FL application,Aggregation & Update,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/58484719/tensor-type-error-when-federated-learning,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/61882422/tensorflow-federated-learning-from-keras-model-no-longer-contains-dummy-bat,SO,FL application,Data loading & processing,API Evolution Issue,Crash
+https://stackoverflow.com/questions/61882422/tensorflow-federated-learning-from-keras-model-no-longer-contains-dummy-bat,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/66304067/error-while-executing-federated-learning-text-generation-tutorial-in-colab,SO,FL framework,Data loading & processing,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/69325272/tff-runtimeerror-attempting-to-capture-an-eagertensor-without-building-a-functi,SO,FL application,Model building,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/69619028/access-and-modify-weights-sent-from-client-on-the-server-tensorflow-federated,SO,FL application,Aggregation & Update,Incorrect FL Algorithm Implementation,Crash
+https://stackoverflow.com/questions/60202610/pysyft-federated-learning-error-with-websockets,SO,FL framework,FL Configuration,Improper Interaction Initialization/Establiah,Crash
+https://stackoverflow.com/questions/66680070/attributeerror-type-object-tensor-has-no-attribute-fft,SO,FL application,Dependency,Dependency Incompatibility,Crash
+https://stackoverflow.com/questions/61850455/could-not-find-a-version-that-satisfies-the-requirement-torch-1-4-0-from-syft,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/66483639/attributeerror-module-syft-has-no-attribute-torchhook,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/65236793/multiple-values-for-argument,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/60365627/syft-pysyft-modulenotfounderror-syft-proto-messaging-v1-protocol-pb2,SO,FL framework,Framework evolution,FL Framework Evolution,Crash
+https://stackoverflow.com/questions/59741397/federated-learning-convert-my-own-image-dataset-into-tff-simulation-clientdata,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/65578498/tff-valueerror-shapes-none-1-and-none-are-incompatible,SO,FL application,Data loading & processing,"Incorrect Data Type, Shape & Format",Crash
+https://stackoverflow.com/questions/67533039/tensorflow-keras-input-0-of-layer-lstm-is-incompatible-with-the-layer-expec,SO,FL application,Model building,Unsuitable ML/DL Algorithm Selection,Crash
+https://stackoverflow.com/questions/60815004/modulenotfounderror-no-module-named-tensorflow-federated-python-research,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/60920524/error-while-using-gpu-based-remote-execution-with-tensorflow-federated,SO,FL application,Deployment,Incorrect deployment,Deployment Failure
+https://stackoverflow.com/questions/60982530/valueerror-tensorcnn-conv2d-kernel0-shape-dtype-resource-must-be-from,SO,FL application,Model building,Model Initialization Issue,Crash
+https://stackoverflow.com/questions/60866002/pysyft-client-and-server,SO,FL application,FL Configuration,Incorrect Interaction Closing,Crash
+https://stackoverflow.com/questions/59484278/pureframeworktensorfounderror-runtime-error-fedeartedlearning,SO,FL application,Data loading & processing,Incorrect Data Split,Crash
+https://stackoverflow.com/questions/68018178/federated-learning-for-image-classification-in-colab,SO,FL application,Framework evolution,API Evolution Issue,Crash
+https://stackoverflow.com/questions/58367187/modulenotfounderror-no-module-named-syft-pysyft,SO,FL application,Dependency,Wrong Dependency Import,Crash
+https://stackoverflow.com/questions/57581345/change-model-in-tensorflow-federated-but-not-work,SO,FL application,Model building,Model Initialization Issue,Crash
